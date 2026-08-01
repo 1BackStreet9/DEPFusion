@@ -106,6 +106,21 @@ python ./tools/test.py ${CONFIG_FILE} ${CHECKPOINT}
 
 For more command-line arguments, please refer to the code details.
 
+## Citation
+If you find DEPfusion is useful for your research, please consider citing:
+```
+@ARTICLE{11631695,
+  author={Li, Shucong and Liu, Zhenyu and Hong, Zijie},
+  journal={IEEE Internet of Things Journal}, 
+  title={DEPFusion: Dual-Domain Enhancement and Priority-Guided Mamba Fusion for UAV Multispectral Object Detection}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={UAV;multispectral object detection;priorityguided;Mamba;Internet of Things},
+  doi={10.1109/JIOT.2026.3718626}}
+```
+
 ## Acknowledgment
 Our codes are mainly based on [MMRotate](https://github.com/open-mmlab/mmrotate) and [VMamba](https://github.com/MzeroMiko/VMamba). Many thanks to the authors!
 
