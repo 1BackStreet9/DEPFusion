@@ -107,7 +107,7 @@ python ./tools/test.py ${CONFIG_FILE} ${CHECKPOINT}
 For more command-line arguments, please refer to the code details.
 
 ## Citation
-If you find DEPfusion is useful for your research, please consider citing:
+If you find that DEPfusion is useful for your research, please consider citing:
 ```
 @ARTICLE{11631695,
   author={Li, Shucong and Liu, Zhenyu and Hong, Zijie},
