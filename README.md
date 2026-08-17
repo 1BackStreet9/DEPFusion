@@ -1,5 +1,4 @@
-# 《DEPFusion: Dual-Domain Enhancement and Priority-Guided Mamba Fusion for UAV Multispectral Object Detection》 
-#  (Accepted by IEEE JIOT 2026 in July 27th)
+# 《DEPFusion: Dual-Domain Enhancement and Priority-Guided Mamba Fusion for UAV Multispectral Object Detection》 (IEEE JIOT 2026)
 </div>
 <div align="center">   
   
