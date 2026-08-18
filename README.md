@@ -38,7 +38,7 @@ python tools/VOC2DOTA.py
 ```
 
 
-## Envirenment
+## Environment
 CUDA==11.8
 
 Pytorch==2.1.2
